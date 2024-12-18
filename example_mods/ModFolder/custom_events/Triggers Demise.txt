@@ -1,0 +1,3 @@
+Used on stages/demiseport and data/demise/script
+
+v1 = (11: enable/disable bg flash)

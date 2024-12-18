@@ -1,0 +1,11 @@
+[
+	{
+		"save": "pauseMusic",
+		"name": "Pause Music:",
+		"type": "string",
+		"description": "Music that will play when paused",
+		"value": "Random",
+        "format": "%v",
+		"options": ["Random", "Creative Exercise", "Monkey Song", "Mysterious"]
+	}
+]

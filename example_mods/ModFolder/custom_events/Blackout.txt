@@ -1,0 +1,6 @@
+A very simple blackout event.
+
+Value 1: "a" is start blackout, "b" is end blackout
+Value 2: Duration
+
+Script By Oren (https://x.com/Oren_too)

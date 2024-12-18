@@ -1,0 +1,4 @@
+Functions in Stages/Twitter.lua
+
+Remove1 - Remove TW BG
+Add1 - Add SC BG

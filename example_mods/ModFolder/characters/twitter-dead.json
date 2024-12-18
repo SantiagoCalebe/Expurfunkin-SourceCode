@@ -1,0 +1,58 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-500,
+				20
+			],
+			"anim": "firstDeath",
+			"fps": 10,
+			"name": "firstDeath",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-500,
+				20
+			],
+			"anim": "deathConfirm",
+			"fps": 10,
+			"name": "deathConfirm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-500,
+				20
+			],
+			"anim": "deathLoop",
+			"fps": 10,
+			"name": "deathLoop",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/twitter-dead",
+	"position": [
+		170,
+		510
+	],
+	"healthicon": "twitter",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		100,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1.5,
+	"_editor_isPlayer": false
+}

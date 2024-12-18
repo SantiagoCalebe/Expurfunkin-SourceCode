@@ -1,0 +1,32 @@
+{
+	"storyName": "[this song is for sale!] [expurnotion.carrd.co]",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "promotion",
+	"weekBefore": "expurnoia",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"promotion",
+			"blank",
+			[
+				175,
+				120,
+				140
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "promotion"
+}

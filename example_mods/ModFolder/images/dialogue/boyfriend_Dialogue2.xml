@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boyfriend_Dialogue2.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="normal0000" x="5" y="5" width="181" height="192"/>
+	<SubTexture name="normal0001" x="5" y="5" width="181" height="192"/>
+	<SubTexture name="normal0002" x="191" y="5" width="181" height="192"/>
+	<SubTexture name="normal0003" x="191" y="5" width="181" height="192"/>
+	<SubTexture name="normal0004" x="5" y="202" width="181" height="192"/>
+	<SubTexture name="normal0005" x="5" y="202" width="181" height="192"/>
+	<SubTexture name="normalStop0000" x="191" y="202" width="181" height="187"/>
+</TextureAtlas>

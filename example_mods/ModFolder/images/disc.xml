@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="disc.png">
+<SubTexture name="disc0000" x="0" y="0" width="177" height="166" frameX="-6" frameY="-12" frameWidth="150" frameHeight="150" />
+<SubTexture name="disc0001" x="0" y="166" width="177" height="166" frameX="-6" frameY="-12" frameWidth="150" frameHeight="150" />
+<SubTexture name="disc0002" x="0" y="332" width="177" height="166" frameX="-6" frameY="-12" frameWidth="150" frameHeight="150" />
+</TextureAtlas>

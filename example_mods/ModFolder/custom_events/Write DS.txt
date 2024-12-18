@@ -1,0 +1,6 @@
+Value 1 = duration
+Value 2 = text
+
+Note: the duration is divided by 2 for some reason, 
+put your duration multiplied by 2, like: You want 10 seconds,
+so put 20 seconds.

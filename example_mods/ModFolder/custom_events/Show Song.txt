@@ -1,0 +1,3 @@
+Show the song that's playing (from Mario's Madness)
+Value 1: Song Name
+Value 2: Credits

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="twitter.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="normal0000" x="0" y="0" width="912" height="912" frameX="-84" frameY="-84" frameWidth="1080" frameHeight="1080"/>
+	<SubTexture name="normalStop0000" x="0" y="0" width="912" height="912" frameX="-84" frameY="-84" frameWidth="1080" frameHeight="1080"/>
+</TextureAtlas>

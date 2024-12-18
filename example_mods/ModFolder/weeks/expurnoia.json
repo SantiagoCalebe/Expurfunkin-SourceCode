@@ -1,0 +1,32 @@
+{
+	"storyName": "paranoia - sandi / ft. kennyl",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "expurnoia",
+	"weekBefore": "expurday",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"paranoia",
+			"blank",
+			[
+				155,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "expurnoia"
+}

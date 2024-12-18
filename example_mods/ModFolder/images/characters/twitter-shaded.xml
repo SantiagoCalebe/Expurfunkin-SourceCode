@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="twitter-shaded.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="down00000000" x="2968" y="1824" width="912" height="912" frameX="-84" frameY="-84" frameWidth="1080" frameHeight="1080"/>
+	<SubTexture name="down00010000" x="0" y="1994" width="912" height="912" frameX="-84" frameY="-84" frameWidth="1080" frameHeight="1080"/>
+	<SubTexture name="down00020000" x="912" y="1994" width="912" height="912" frameX="-84" frameY="-84" frameWidth="1080" frameHeight="1080"/>
+	<SubTexture name="idle0000" x="2968" y="912" width="912" height="912" frameX="-84" frameY="-84" frameWidth="1080" frameHeight="1080"/>
+	<SubTexture name="left00000000" x="2036" y="932" width="932" height="932" frameX="-74" frameY="-74" frameWidth="1080" frameHeight="1080"/>
+	<SubTexture name="left00010000" x="0" y="1018" width="976" height="976" frameX="-52" frameY="-52" frameWidth="1080" frameHeight="1080"/>
+	<SubTexture name="left00020000" x="1018" y="0" width="1018" height="1018" frameX="-31" frameY="-31" frameWidth="1080" frameHeight="1080"/>
+	<SubTexture name="right00000000" x="2036" y="0" width="932" height="932" frameX="-74" frameY="-74" frameWidth="1080" frameHeight="1080"/>
+	<SubTexture name="right00010000" x="976" y="1018" width="976" height="976" frameX="-52" frameY="-52" frameWidth="1080" frameHeight="1080"/>
+	<SubTexture name="right00020000" x="0" y="0" width="1018" height="1018" frameX="-31" frameY="-31" frameWidth="1080" frameHeight="1080"/>
+	<SubTexture name="up00000000" x="0" y="2906" width="912" height="912" frameX="-84" frameY="-84" frameWidth="1080" frameHeight="1080"/>
+	<SubTexture name="up00010000" x="2968" y="0" width="912" height="912" frameX="-84" frameY="-84" frameWidth="1080" frameHeight="1080"/>
+	<SubTexture name="up00020000" x="1824" y="1994" width="912" height="912" frameX="-84" frameY="-84" frameWidth="1080" frameHeight="1080"/>
+</TextureAtlas>

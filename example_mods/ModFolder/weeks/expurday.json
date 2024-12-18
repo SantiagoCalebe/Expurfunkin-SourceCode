@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"bad day",
+			"blank",
+			[
+				255,
+				0,
+				120
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "expurday",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "bad day - redtv53",
+	"weekName": "expurday",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "expurdue",
+	"startUnlocked": true
+}

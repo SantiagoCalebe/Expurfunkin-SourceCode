@@ -1,0 +1,4 @@
+Value1 = Angle Force
+Value2 = Bounce Force
+
+[Disable] - Put 0 in both values.

@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"starman slaugther",
+			"blank",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "slaugther",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "starman slaugther - sandi, theWAHbox, RedTv53, FriedFrick",
+	"weekName": "starman-expurlaugther",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "expurgationnew",
+	"startUnlocked": true
+}

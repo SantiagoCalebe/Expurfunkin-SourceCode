@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				211,
+				174
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "PicoShoot0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "PicoLeft0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-90
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "PicoDown0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-69,
+				57
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "PicoUp0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-92,
+				23
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "PicoRight0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				8
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "PicoLeftMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-63
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "PicoDownMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-66,
+				67
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "PicoUpMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				42
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "PicoRightMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				47
+			],
+			"anim": "dialog1",
+			"fps": 24,
+			"name": "PicoDialogue",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-40
+			],
+			"anim": "dialog2",
+			"fps": 24,
+			"name": "PicoDIalogue",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Pico Idle Dance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Too_Late_Pico_ass_sets_v2",
+	"position": [
+		150,
+		470
+	],
+	"healthicon": "pico",
+	"flip_x": true,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		150,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

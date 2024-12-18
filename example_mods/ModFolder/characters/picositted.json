@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-30,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "PicoCrouchIdle"
+		},
+		{
+			"offsets": [
+				-52,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "PicoCrouchLeft"
+		},
+		{
+			"offsets": [
+				-39,
+				-13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "PicoCrouchUp"
+		},
+		{
+			"offsets": [
+				-30,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "PicoCrouchDown"
+		},
+		{
+			"offsets": [
+				-22,
+				-27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "PicoCrouchRight"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Too_Late_Pico_ass_sets_v2",
+	"position": [
+		150,
+		470
+	],
+	"healthicon": "pico",
+	"flip_x": true,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		150,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 2,
+	"_editor_isPlayer": true
+}

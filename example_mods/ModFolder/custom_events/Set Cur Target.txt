@@ -1,0 +1,7 @@
+Needs cameraMoviment script to work.
+
+value 1 = object
+value 2  = section target(bf,gf,dad)
+
+If you want it to stay focused when changing sections, 
+type the section you wanted to focus or "stay" for all on v2.

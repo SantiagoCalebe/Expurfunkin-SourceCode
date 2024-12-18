@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Starman_BG_Fire_Assets.png">
+<SubTexture name="fire anim effects0000" x="601" y="0" width="604" height="630" frameX="0" frameY="-19" frameWidth="608" frameHeight="652" />
+<SubTexture name="fire anim effects0001" x="601" y="0" width="604" height="630" frameX="0" frameY="-19" frameWidth="608" frameHeight="652" />
+<SubTexture name="fire anim effects0002" x="1206" y="0" width="603" height="618" frameX="0" frameY="-31" frameWidth="608" frameHeight="652" />
+<SubTexture name="fire anim effects0003" x="1206" y="0" width="603" height="618" frameX="0" frameY="-30" frameWidth="608" frameHeight="652" />
+<SubTexture name="fire anim effects0004" x="0" y="0" width="601" height="641" frameX="0" frameY="-7" frameWidth="608" frameHeight="652" />
+<SubTexture name="fire anim effects0005" x="0" y="0" width="601" height="641" frameX="0" frameY="-6" frameWidth="608" frameHeight="652" />
+</TextureAtlas>

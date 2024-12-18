@@ -1,0 +1,2 @@
+Value 1 = (0: drown water,2: disable drain, but go up,
+any values ​​other than these will active the water)
